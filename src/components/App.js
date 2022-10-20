@@ -43,7 +43,7 @@ class App extends React.Component {
                             />
                         </div>
                         <div>
-                            <p>Created by: <b>Jonathan Ojakovo</b></p>
+                            <p>Created by: <b>Eric Ojakovo</b></p>
                         </div>
                     </div>
                 </div>
